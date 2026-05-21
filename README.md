@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hi there! I'm Barudak
+# ✨ Hi there! I'm Rayfo
 
 ![Banner](assets/bannerProfile.gif)
 
