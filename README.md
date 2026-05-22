@@ -2,7 +2,7 @@
 
 # ✨ Hi there! I'm Rayfo
 
-![Banner](assets/bannerProfile.gif)
+![Banner](assets/yumeko-jabami.gif)
 
 ### 🚀 Software Engineering Technology Student
 ### 🌐 Web & Game Development Enthusiast
